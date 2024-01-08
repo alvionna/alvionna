@@ -12,14 +12,14 @@
 - Python Framework & Libraries: Matplotlib, Scipy, Pandas, Numpy, scikit-learn, Flask  
 - Javascript Tools: Node.js, React.js
 
-  **Projects**
-  - I am currently working on sentiment analysis & stock prediction
-  - I am also learning finance on my own
-    
-   **Let's Connect**
-  - How to reach me: can email me at sunar22a@mtholyoke.edu or drop me a message on Github!
-  - My social media links:
-    - Linkedin: https://www.linkedin.com/in/alvionna-sunaryo
+**Projects**
+- I am currently working on sentiment analysis & stock prediction
+- I am also learning finance on my own
+  
+ **Let's Connect**
+- How to reach me: can email me at sunar22a@mtholyoke.edu or drop me a message on Github!
+- My social media links:
+  - Linkedin: https://www.linkedin.com/in/alvionna-sunaryo
     
    
 
